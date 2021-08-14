@@ -1,0 +1,16 @@
+D:\ITC-practice\93\93-1\93-1\bin\Debug\net5.0\93-1.exe
+D:\ITC-practice\93\93-1\93-1\bin\Debug\net5.0\93-1.deps.json
+D:\ITC-practice\93\93-1\93-1\bin\Debug\net5.0\93-1.runtimeconfig.json
+D:\ITC-practice\93\93-1\93-1\bin\Debug\net5.0\93-1.runtimeconfig.dev.json
+D:\ITC-practice\93\93-1\93-1\bin\Debug\net5.0\93-1.dll
+D:\ITC-practice\93\93-1\93-1\bin\Debug\net5.0\ref\93-1.dll
+D:\ITC-practice\93\93-1\93-1\bin\Debug\net5.0\93-1.pdb
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.csproj.AssemblyReference.cache
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.AssemblyInfoInputs.cache
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.AssemblyInfo.cs
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.csproj.CoreCompileInputs.cache
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.dll
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\ref\93-1.dll
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.pdb
+D:\ITC-practice\93\93-1\93-1\obj\Debug\net5.0\93-1.genruntimeconfig.cache
