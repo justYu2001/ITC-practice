@@ -1,0 +1,9 @@
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\obj\x86\Debug\102-5.csproj.AssemblyReference.cache
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\obj\x86\Debug\102-5.csproj.GenerateResource.cache
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\obj\x86\Debug\102-5.csproj.CoreCompileInputs.cache
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ITC-practice\102\102-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

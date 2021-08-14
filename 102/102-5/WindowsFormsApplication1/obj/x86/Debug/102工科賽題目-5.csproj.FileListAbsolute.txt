@@ -1,0 +1,8 @@
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\obj\x86\Debug\102工科賽題目-5.csprojResolveAssemblyReference.cache
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C# Practice\102工科賽題目-5\WindowsFormsApplication1\obj\x86\Debug\102工科賽題目-5.csproj.GenerateResource.Cache
