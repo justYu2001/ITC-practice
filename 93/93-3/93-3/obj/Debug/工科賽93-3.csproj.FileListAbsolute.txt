@@ -1,0 +1,6 @@
+D:\C# Practice\工科賽93-3\工科賽93-3\bin\Debug\工科賽93-3.exe.config
+D:\C# Practice\工科賽93-3\工科賽93-3\bin\Debug\工科賽93-3.exe
+D:\C# Practice\工科賽93-3\工科賽93-3\bin\Debug\工科賽93-3.pdb
+D:\C# Practice\工科賽93-3\工科賽93-3\obj\Debug\工科賽93-3.csprojResolveAssemblyReference.cache
+D:\C# Practice\工科賽93-3\工科賽93-3\obj\Debug\工科賽93-3.exe
+D:\C# Practice\工科賽93-3\工科賽93-3\obj\Debug\工科賽93-3.pdb

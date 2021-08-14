@@ -1,0 +1,7 @@
+D:\ITC-practice\93\工科賽93-3\工科賽93-3\bin\Debug\93-3.exe.config
+D:\ITC-practice\93\工科賽93-3\工科賽93-3\bin\Debug\93-3.exe
+D:\ITC-practice\93\工科賽93-3\工科賽93-3\bin\Debug\93-3.pdb
+D:\ITC-practice\93\工科賽93-3\工科賽93-3\obj\Debug\93-3.csproj.AssemblyReference.cache
+D:\ITC-practice\93\工科賽93-3\工科賽93-3\obj\Debug\93-3.csproj.CoreCompileInputs.cache
+D:\ITC-practice\93\工科賽93-3\工科賽93-3\obj\Debug\93-3.exe
+D:\ITC-practice\93\工科賽93-3\工科賽93-3\obj\Debug\93-3.pdb
